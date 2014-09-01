@@ -1,9 +1,9 @@
 Package: com.sassoty.noemojipaging
 Name: NoEmojiPaging
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Disable paging on Emoji scroll view
 Maintainer: Sassoty <sassoty@gmail.com>
 Author: Sassoty <sassoty@gmail.com>
 Section: Tweaks
